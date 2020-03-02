@@ -1,6 +1,9 @@
 # i dont wanna go to korea army
 
 <img src="./vanillaJS.png" />
+
+<hr>
+
 * ㅅㅂ 내가 어드민인데 왜 commit가 안돼지
 * 개인 저장소에 fork 떠서 -> full request 보내긴 귀찮은데
 * 아 이거 방법이 있을거 같은데
